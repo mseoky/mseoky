@@ -1,6 +1,16 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe0101,100:ffffff&height=250&text=Welcome%20to%20mseoky's%20playground!&desc=Let%27s%20explore%20and%20create%20together.&fontAlign=50&fontSize=30&fontColor=ffffff&descAlign=70&descAlignY=60&descSize=20" />
-</div>
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div align="center" style="position: relative; background: linear-gradient(to right, #fe0101, #ffffff); color: #ffffff; padding: 30px; border-radius: 10px;">
+        <h1 style="font-size: 2.5rem; font-family: 'Sawarabi Mincho', serif; text-shadow: 2px 2px 5px #000;">
+            Welcome to mseoky's Playground!
+        </h1>
+        <p style="font-size: 1.2rem; font-family: 'Sawarabi Mincho', serif; margin-top: 10px;">
+            Let's explore and create something amazing together. 🚀
+        </p>
+    </div>
+</body>
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi there! 👋 I'm Min-Seok Yoon </h2>  
