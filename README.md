@@ -65,7 +65,7 @@
     <div style="text-align: left;">
         <!-- GitHub Stats -->
         <a href="https://github.com/mseoky">
-            <img src="https://github-readme-stats.vercel.app/api?username=mseoky&show_icons=true&theme=radical" alt="GitHub Stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=mseoky&show_icons=true&theme=aura_dark" alt="GitHub Stats">
         </a>
         <!-- Solved.ac Profile -->
         <a href="https://solved.ac/mseoky">
