@@ -65,6 +65,6 @@
     <div style="text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api?username=mseoky&bg_color=60,dc143c,fff5eb&title_color=1e1e1e&text_color=1e1e1e">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mseoky&layout=compact&bg_color=60,dc143c,fff5eb&title_color=1e1e1e&text_color=1e1e1e">
-        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mseoky)](https://solved.ac/mseoky/)
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mseoky">
     </div>
 </div>
