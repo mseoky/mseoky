@@ -63,10 +63,13 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
     <div style="text-align: left;">
-        <img src="https://github-readme-stats.vercel.app/api?username=mseoky&bg_color=60,dc143c,fff5eb&title_color=1e1e1e&text_color=1e1e1e">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mseoky&layout=compact&bg_color=60,dc143c,fff5eb&title_color=1e1e1e&text_color=1e1e1e">
-        <a href="https://solved.ac/mseoky" target="_blank">
-            <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mseoky" alt="Solved.ac Profile">
+        <!-- GitHub Stats -->
+        <a href="https://github.com/mseoky">
+            <img src="https://github-readme-stats.vercel.app/api?username=mseoky&show_icons=true&theme=radical" alt="GitHub Stats">
+        </a>
+        <!-- Solved.ac Profile -->
+        <a href="https://solved.ac/mseoky">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mseoky" alt="Solved.ac Profile">
         </a>
     </div>
 </div>
