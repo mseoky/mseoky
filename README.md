@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a059ff,100:fe0101&height=180&text=Recursive%20passion,%20unstoppable%20progress.&animation=&fontColor=ffebeb&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe0101,100:ffffff&height=250&text=Welcome%20to%20mseoky%27s%20playground!&desc=Let%27s%20explore%20and%20create%20together.&fontAlign=50&fontColor=ffffff&descAlign=70&descAlignY=50" />
 </div>
 
 <div style="text-align: left;">
