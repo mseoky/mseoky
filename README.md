@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi there! 👋 I'm Min-Seok Yoon </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Passionate about crafting efficient systems and solving complex problems, I strive to grow every day as a developer.</li><br></li><li>🚀 Exploring innovative technologies and building scalable solutions.</li><li>🎯 Aiming for a future in Silicon Valley or the aerospace industry.</li><li>💡 Always curious, always learning.</li><br>Let’s create something extraordinary together! </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Passionate about crafting efficient systems and solving complex problems, I strive to grow every day as a developer.</li></li><br><br><li>🚀 Exploring innovative technologies and building scalable solutions.</li><li>🎯 Aiming for a future in Silicon Valley or the aerospace industry.</li><li>💡 Always curious, always learning.</li><br>Let’s create something extraordinary together! </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
