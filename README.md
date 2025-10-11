@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe0101,100:000000&height=250&text=Welcome%20to%20mseoky's%20playground!&desc=Let%27s%20explore%20and%20create%20together.&fontAlign=50&fontSize=50&fontColor=c0c0c0&descAlign=80&descAlignY=70&descSize=20" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e9e325,100:24c20f&height=250&text=Welcome%20to%20mseoky's%20playground!&desc=Let%27s%20explore%20and%20create%20together.&fontAlign=50&fontSize=50&fontColor=c0c0c0&descAlign=80&descAlignY=70&descSize=20" />
 </div>
 
 <div style="text-align: left;">
@@ -13,7 +13,7 @@
         <br>
         Let’s create something extraordinary together!
     </div>
-</div>
+</div>   
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
