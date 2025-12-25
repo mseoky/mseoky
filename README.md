@@ -84,8 +84,8 @@
     <td align="center"><strong>Infra</strong></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
-      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white">
     </td>
   </tr>
 
@@ -119,11 +119,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mseoky&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mseoky&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <br>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mseoky&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" width="48%" /> -->
   <a href="https://solved.ac/mseoky">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mseoky" alt="Solved.ac Profile" />
   </a>
