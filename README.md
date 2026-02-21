@@ -19,13 +19,20 @@
 
 ---
 
+### 🎓 Education & Experience
+* **Pusan National University** | B.S. in Computer Science and Engineering (2021.03 - Present)
+* **KAIST MadCamp** | Participant, Winter Immersion Camp (2026.01 - 2026.02)
+  Intensive 4-week development camp. Built 4 projects in 2 or 3-person teams with weekly rotations.
+* **Seoul National University** | Research Intern, Medical AR Lab (2025.07 - 2025.08)
+  Built AR visualization models for medical organs using CT/MRI datasets.
+* **KEEPER (PNU CSE Security Club)** | Active Member (2024.03 - 2024.06)
+  Studied system security and software vulnerability analysis.
+
 ### 🏆 Featured Awards & Achievements
 * **Grand Prize** | 2025 Space Hackathon  
   Awarded by the President of KARI. Developed a satellite-based business model for offshore wind farm analysis.
 * **Grand Prize (Winner)** | 2025 BNK Digital Innovation Challenge  
   Awarded by the Chairman of BNK Financial Group. Backend lead for a local community challenge platform.
-* **Research Assistant** | SNU Medical AR Lab (Summer 2025)  
-  Built AR visualization models for medical organs using CT/MRI datasets.
 
 ### 🛰️ Core Interests
 * **Aerospace Systems**: Guidance, navigation, control algorithms, onboard computing, and fault-tolerant avionics.
