@@ -111,7 +111,7 @@
 
 ### 🚀 Key Projects
 * **[HoloMed](https://github.com/mseoky/HoloMed)** -  Medical AR visualization system using Unity/Vuforia. Developed 3D organ models from CT/MRI data and built an interactive AR rendering pipeline.
-* **[LISP-style Interpreter](link)** - Custom compiler project using Flex & Bison.
+* **[LISP-style Interpreter](https://github.com/mseoky/LISP-style-Interpreter)** - Custom compiler project using Flex & Bison.
 
 ---
 
