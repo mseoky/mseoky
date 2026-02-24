@@ -19,8 +19,10 @@
 
 ---
 
-### 🎓 Education & Experience
+### 🎓 Education & Activities
 * **Pusan National University** | B.S. in Computer Science and Engineering (2021.03 - Present)
+* **ASTRO (PNU Aerospace Club)** | Active Member (2024.09 - Present)
+  Developing autonomous drone mission algorithms and prototyping CubeSat systems.
 * **KAIST MadCamp** | Participant, Winter Immersion Camp (2026.01 - 2026.02)
   Intensive 4-week development camp. Built 4 projects in 2 or 3-person teams with weekly rotations.
 * **Seoul National University** | Research Intern, Medical AR Lab (2025.07 - 2025.08)
