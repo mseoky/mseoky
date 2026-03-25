@@ -4,9 +4,9 @@
   </a>
 
   <p align="center">
-    <strong>Systems & Software Engineer</strong><br>
-    Building reliable, high-integrity software for mission-critical systems.<br>
-    <em>Engineering with clarity, curiosity, and intention.</em>
+    <strong>System Software & Autonomous Systems Engineer</strong><br>
+    Designing system-level software and mission logic for autonomous systems,<br>
+    bridging RTOS/Linux with real-world hardware behavior.
   </p>
 
   <div>
@@ -22,24 +22,46 @@
 ### 🎓 Education & Activities
 * **Pusan National University** | B.S. in Computer Science and Engineering (2021.03 - Present)
 * **ASTRO (PNU Aerospace Club)** | Active Member (2025.09 - Present)
-  Developing autonomous drone mission algorithms and prototyping CubeSat systems.
-* **KAIST MadCamp** | Participant, Winter Immersion Camp (2026.01 - 2026.02)
-  Intensive 4-week development camp. Built 4 projects in 2 or 3-person teams with weekly rotations.
+
+  * Developing autonomous drone mission algorithms and navigation/control logic.
+* **KAIST MadCamp** | Winter Immersion Camp (2026.01 - 2026.02)
+
+  * Built 4 full-stack projects with rapid 1-week iteration cycles across diverse tech stacks.
 * **Seoul National University** | Research Intern, Medical AR Lab (2025.07 - 2025.08)
-  Built AR visualization models for medical organs using CT/MRI datasets.
-* **KEEPER (PNU CSE Security Club)** | Active Member (2024.03 - 2024.06)
-  Studied system security and software vulnerability analysis.
+
+  * Developed a 3D AR visualization pipeline for medical imaging using CT/MRI datasets.
+* **KEEPER (Security Club)** | Active Member (2024.03 - 2024.08)
+
+  * Researched system-level vulnerabilities and software security analysis.
+
+---
 
 ### 🏆 Featured Awards & Achievements
-* **Grand Prize** | 2025 Space Hackathon  
-  Awarded by the President of KARI. Developed a satellite-based business model for offshore wind farm analysis.
-* **Grand Prize (Winner)** | 2025 BNK Digital Innovation Challenge  
-  Awarded by the Chairman of BNK Financial Group. Backend lead for a local community challenge platform.
+* **Grand Prize** | Space Hackathon (Awarded by the President of KARI)
+
+  * Satellite-based business model for offshore wind farm analysis.
+* **Grand Prize (Winner)** | BNK Digital Innovation Challenge
+
+  * Backend lead for a community-driven challenge platform.
+
+---
 
 ### 🛰️ Core Interests
-* **Aerospace Systems**: Guidance, navigation, control algorithms, onboard computing, and fault-tolerant avionics.
-* **Embedded & Real-Time Systems**: STM32, sensor fusion, RTOS, interrupt-driven programming, hardware-level optimization.
-* **Systems Programming**: Memory management, OS-level scheduling, concurrency, and efficient C/C++ system design.
+
+**Autonomous Systems**
+
+* Mission planning, state machines, and behavior design for robotics/UAVs.
+* Sensor fusion and real-time decision-making algorithms.
+
+**Embedded & Real-Time Systems**
+
+* RTOS-based system design, task scheduling, and synchronization.
+* Embedded Linux systems and hardware-software interface design.
+
+**Systems Programming**
+
+* OS-level scheduling, memory management, and concurrency control.
+* Efficient and reliable system design using C/C++.
 
 ---
 
