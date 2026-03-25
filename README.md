@@ -141,7 +141,12 @@
 ---
 
 ### 🚀 Key Projects
+* **[RTOScope](https://github.com/madcamp-2025w-week3/RTOScope)** - RTOS-based aircraft combat simulator  
+
+* **[RTOS Monty Hall Simulator](https://github.com/mseoky/rtos-monty-hall-simulator)** - Real-time embedded system simulator on STM32  
+
 * **[HoloMed](https://github.com/mseoky/HoloMed)** -  Medical AR visualization system using Unity/Vuforia. Developed 3D organ models from CT/MRI data and built an interactive AR rendering pipeline.
+
 * **[LISP-style Interpreter](https://github.com/mseoky/LISP-style-Interpreter)** - Custom compiler project using Flex & Bison.
 
 ---
