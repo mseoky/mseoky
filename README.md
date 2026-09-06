@@ -1,151 +1,179 @@
 <div align="center">
   <a href="https://github.com/readme-typing-svg/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+Minseok's+Playground!%F0%9F%91%8B;Where+creativity+meets+engineering.;Let's+Explore+and+Create+Together." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=850&height=100&lines=Welcome+to+Minseok's+Playground!%F0%9F%91%8B;Engineering+Systems.+Designing+Products.;From+Technology+to+Real-World+Value." alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <strong>System Software & Autonomous Systems Engineer</strong><br>
-    Designing system-level software and mission logic for autonomous systems,<br>
-    bridging RTOS/Linux with real-world hardware behavior.
+  <p>
+    <strong>Computer Science & Engineering Student</strong><br>
+    Autonomous Systems · SDV · Systems Software · Technical Product Planning
   </p>
 
-  <div>
-    <a href="mailto:0620yms@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-    <a href="https://www.notion.so/c357705e602342d2bb4bffa5934530d3?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a>
-    <a href="https://discord.com/users/773899662084014120/"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"></a>
-    <a href="https://www.instagram.com/mseoky/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
-  </div>
+  <p>
+    <a href="mailto:0620yms@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+    </a>
+    <a href="https://www.notion.so/c357705e602342d2bb4bffa5934530d3?pvs=4">
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+    </a>
+    <a href="https://discord.com/users/773899662084014120/">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/mseoky/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+    </a>
+  </p>
 </div>
 
 ---
 
-### 🎓 Education & Activities
-* **Pusan National University** | B.S. in Computer Science and Engineering (2021.03 - Present)
-* **ASTRO (PNU Aerospace Club)** | Active Member (2025.09 - Present)
+## 👋 About Me
 
-  * Developing autonomous drone mission algorithms and navigation/control logic.
-* **KAIST MadCamp** | Winter Immersion Camp (2026.01 - 2026.02)
+I'm a Computer Science and Engineering student at **Pusan National University**.
 
-  * Built 4 full-stack projects with rapid 1-week iteration cycles across diverse tech stacks.
-* **Seoul National University** | Research Intern, Medical AR Lab (2025.07 - 2025.08)
+My background spans **systems software, embedded systems, autonomous systems, and backend development**.
+Recently, I have also been exploring **Software-Defined Vehicles (SDV)** and **technical product planning**, with an interest in connecting engineering capabilities to real-world products and user value.
 
-  * Developed a 3D AR visualization pipeline for medical imaging using CT/MRI datasets.
-* **KEEPER (Security Club)** | Active Member (2024.03 - 2024.08)
-
-  * Researched system-level vulnerabilities and software security analysis.
+I enjoy working across both **technical implementation and product-level problem solving**.
 
 ---
 
-### 🏆 Featured Awards & Achievements
-* **Grand Prize** | Space Hackathon (Awarded by the President of KARI)
+## 💼 Experience
 
-  * Satellite-based business model for offshore wind farm analysis.
-* **Grand Prize (Winner)** | BNK Digital Innovation Challenge
+### 🚗 Kia | AVP Division (Hyundai Motor Group)
 
-  * Backend lead for a community-driven challenge platform.
+**SDV Technology & Product Planning Intern**
 
----
+*Jul 2026 – Aug 2026*
 
-### 🛰️ Core Interests
-
-**Autonomous Systems**
-
-* Mission planning, state machines, and behavior design for robotics/UAVs.
-* Sensor fusion and real-time decision-making algorithms.
-
-**Embedded & Real-Time Systems**
-
-* RTOS-based system design, task scheduling, and synchronization.
-* Embedded Linux systems and hardware-software interface design.
-
-**Systems Programming**
-
-* OS-level scheduling, memory management, and concurrency control.
-* Efficient and reliable system design using C/C++.
+* Conducted technology and product trend analysis for **Software-Defined Vehicles (SDV)**.
+* Analyzed global automotive **infotainment, HMI, display, SoC, and software platform** trends.
+* Developed **AutoLens**, an automated competitive-analysis tool covering approximately **20,000 vehicle trims and 300 attributes**.
+* Built AI-assisted workflows for natural-language filtering, competitor comparison, visualization, and report generation.
 
 ---
 
-### 🛠️ Tech Stacks
+## 🎓 Education & Activities
 
-#### 🔥 Expert
-<table>
-  <tr>
-    <td align="center" width="120"><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Systems</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
-      <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white">
-      <img src="https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-    </td>
-  </tr>
-</table>
+### 🎓 Pusan National University
 
-#### ⚙️ Experienced
-<table>
-  <tr>
-    <td align="center" width="120"><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-    </td>
-  </tr>
+**B.S. in Computer Science and Engineering**
 
-  <tr>
-    <td align="center"><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
-    </td>
-  </tr>
+*Mar 2021 – Present*
 
-  <tr>
-    <td align="center"><strong>Infra</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white">
-    </td>
-  </tr>
+### 🛩️ ASTRO | PNU Aerospace Club
 
-  <tr>
-    <td align="center"><strong>Web/Mobile</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
-    </td>
-  </tr>
+**Autonomous UAV Software Team**
 
-  <tr>
-    <td align="center"><strong>AR / Game</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black">
-      <img src="https://img.shields.io/badge/Vuforia-20AADD?style=flat-square&logo=vuforia&logoColor=white">
-    </td>
-  </tr>
-</table>
+*Sep 2025 – Jul 2026*
+
+* Developed autonomous UAV mission logic for GPS-denied environments.
+* Worked on onboard vision, mission state machines, navigation logic, and GCS integration.
+* Led software development for the Robot Aircraft Competition.
+
+### 💻 KAIST MadCamp
+
+**Software Development Immersion Program**
+
+*Jan 2026 – Feb 2026*
+
+* Built four software products through rapid one-week development cycles.
+* Worked across product ideation, implementation, and iteration with diverse technology stacks.
+
+### 🥽 Seoul National University | Medical AR Lab
+
+**Research Intern**
+
+*Jul 2025 – Aug 2025*
+
+* Developed a 3D augmented-reality visualization pipeline using CT/MRI medical imaging data.
+
+### 🔐 KEEPER | Security Club
+
+**Member**
+
+*Mar 2024 – Aug 2024*
+
+* Studied systems software, software vulnerabilities, and security analysis.
 
 ---
 
-### 🏅 Stats & Activity
+## 🚀 Selected Projects
+
+### 🛩️ Autonomous Drone Mission System
+
+* Developed a GPS-denied autonomous drone system using **Pixhawk, Raspberry Pi, C++, and computer vision**.
+* Designed mission logic for navigation, ArUco detection, target revisit, return, and autonomous landing.
+* Built onboard telemetry, logging, and GCS integration.
+
+### 🤖 Sim2Real Robotic Arm
+
+* Developing a robotic manipulation system using **LeRobot SO-101**.
+* Exploring both imitation learning and classical **computer vision + inverse kinematics** approaches.
+* Designed calibration, object localization, motion control, and pick-and-place pipelines.
+
+### 🌧️ Smart Drain Monitoring System
+
+* Developed an IoT-based drainage monitoring system using **ESP32, LTE-M, MQTT, Spring Boot, and PostgreSQL**.
+* Designed a workflow for detecting drainage abnormalities and supporting field maintenance operations.
+
+---
+
+## 🏆 Awards
+
+### 🥇 Grand Prize | 2025 Space Hackathon
+
+Satellite-data-based service for offshore wind farm analysis.
+
+### 🥇 Grand Prize | BNK Digital Innovation Challenge 2025
+
+Community-driven challenge platform, serving as backend lead.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+</p>
+
+### Systems & Robotics
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white">
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/ArduPilot-004A80?style=flat-square">
+</p>
+
+### Backend & Data
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</p>
+
+---
+
+## 🏅 GitHub & Problem Solving
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mseoky&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9" width="48%">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mseoky&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" width="48%" /> -->
+
   <a href="https://solved.ac/mseoky">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mseoky" alt="Solved.ac Profile" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mseoky" alt="Solved.ac Profile">
   </a>
 </div>
