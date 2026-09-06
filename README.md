@@ -97,27 +97,6 @@ I enjoy working across both **technical implementation and product-level problem
 
 ---
 
-## 🚀 Selected Projects
-
-### 🛩️ Autonomous Drone Mission System
-
-* Developed a GPS-denied autonomous drone system using **Pixhawk, Raspberry Pi, C++, and computer vision**.
-* Designed mission logic for navigation, ArUco detection, target revisit, return, and autonomous landing.
-* Built onboard telemetry, logging, and GCS integration.
-
-### 🤖 Sim2Real Robotic Arm
-
-* Developing a robotic manipulation system using **LeRobot SO-101**.
-* Exploring both imitation learning and classical **computer vision + inverse kinematics** approaches.
-* Designed calibration, object localization, motion control, and pick-and-place pipelines.
-
-### 🌧️ Smart Drain Monitoring System
-
-* Developed an IoT-based drainage monitoring system using **ESP32, LTE-M, MQTT, Spring Boot, and PostgreSQL**.
-* Designed a workflow for detecting drainage abnormalities and supporting field maintenance operations.
-
----
-
 ## 🏆 Awards
 
 ### 🥇 Grand Prize | 2025 Space Hackathon
